@@ -27,13 +27,15 @@ body {
 
 
 button {
+  font-size: 2rem;
   height: 100%;
-  border-radius: 5px;
-  padding: 8px;
+  border-radius: 20px;
+  padding: 10px;
 }
 
 
 .dice {
+  width: 18vh;
   text-align: center;
   display: inline-block;
   margin: 30px;
@@ -52,7 +54,7 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 3rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
